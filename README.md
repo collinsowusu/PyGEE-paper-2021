@@ -7,7 +7,7 @@ The repository contains datasets and Jupyter Notebooks used for the validation o
 
 Dirctories
 ==========
-'''
+``` 
   bin/ .......................... programs used during conversion  
       gdalcopyprj.cmd ............. copies gographic projection from one raster file to another  
       gdalcopyprj.py  
@@ -75,5 +75,5 @@ Dirctories
     README.md
     server.py
     six.py
-'''
+```
 
