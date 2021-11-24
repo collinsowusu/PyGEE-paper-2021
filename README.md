@@ -8,9 +8,9 @@ The repository contains datasets and Jupyter Notebooks used for the validation o
 Dirctories
 ==========
 ``` 
-  Clearwater Lake/ .......................... Contains the data and Jupyter notebook for the analysis at Clearwater Lake, MO  
-  Elephant Butte Lake/ .......................... Contains the data and Jupyter notebook for the analysis at Elephant Butte Lake, NM  
-  Hubbard Creek Reservoir/ .......................... Contains the data and Jupyter notebook for the analysis at Hubbard Creek Reservoir, TX 
-  Neversink Reservoir/ .......................... Contains the data and Jupyter notebook for the analysis at Neversink Reservoir, NY 
+  Clearwater Lake/ .................... Contains the data and Jupyter notebook for the analysis at Clearwater Lake, MO  
+  Elephant Butte Lake/ ................ Contains the data and Jupyter notebook for the analysis at Elephant Butte Lake, NM  
+  Hubbard Creek Reservoir/ ............ Contains the data and Jupyter notebook for the analysis at Hubbard Creek Reservoir, TX 
+  Neversink Reservoir/ ................ Contains the data and Jupyter notebook for the analysis at Neversink Reservoir, NY 
 ```
 
