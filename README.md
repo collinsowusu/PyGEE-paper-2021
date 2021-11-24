@@ -5,11 +5,6 @@ Overview
 
 The repository contains datasets and Jupyter Notebooks used for the validation of PyGEE-SWToolbox
 
-  1) Raster water masks derived from Landsat satellite imagery
-  2) Vector datasets representing hydrography (OpenStreetMap or Surface Hydrology for Australia)
-  3) Drainage networks derived from 30m SRTM
-
-
 Dirctories
 ==========
 
