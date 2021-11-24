@@ -8,7 +8,7 @@ The repository contains datasets and Jupyter Notebooks used for the validation o
 Dirctories
 ==========
 ``` 
-  bin/ .......................... programs used during conversion  
+  Clearwater Lake/ .......................... programs used during conversion  
       gdalcopyprj.cmd ............. copies gographic projection from one raster file to another  
       gdalcopyprj.py  
       osmconvert.exe .............. converts OpenStreetMap pbf binary files to o5m and osm format  
