@@ -3,7 +3,7 @@
 Overview
 ========
 
-The repository contains datasets and Jupyter Notebooks used for the validation of PyGEE-SWToolbox
+The repository contains datasets and Jupyter Notebooks used for the validation of [PyGEE-SWToolbox](https://github.com/collinsowusu/PyGEE-SWToolbox).
 
 Dirctories
 ==========
